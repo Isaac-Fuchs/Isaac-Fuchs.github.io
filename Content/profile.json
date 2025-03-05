@@ -22,13 +22,13 @@
   "Employment": "Sudexo",
   "Role": "Catering",
   "EmploymentText": "I have worked quite a few different jobs.",
-  "Skills": ["C++", " Java",  " CSS"," CPR certified"],
+  "Skills": [" Java",  " CSS"," CPR certified"],
   "SkillsText": "Use this to add some narrative to your skills section",
   "Resume": "student-resume.pdf"  
 },
 "Project1": {
-    "Title": "Interesting Project 1",
-    "Desc": "This is a description of Project One.<br><br>It has a GitHub repo and more details shown in screenshots.",
+    "Title": "Sallen Key Frquency Filter",
+    "Desc": "A sixth order bandpass Sallen Key circuit. Includes a peak detector and comparator to cause a LED to turn on when reciving a signal with a freqeuncy of 25kHz.<br><br>It has a GitHub repo and more details shown in screenshots.",
     "GitHubRepo": "https://github.com",
     "MainImage": "P1Main.png",
     "DetailImages": ["P1Detail1.png","P1Detail2.png","P1Detail3.png"]
