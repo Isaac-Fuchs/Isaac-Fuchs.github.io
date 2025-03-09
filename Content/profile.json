@@ -22,7 +22,7 @@
   "Employment": "Sudexo",
   "Role": "Catering",
   "EmploymentText": "I have worked quite a few different jobs.",
-  "Skills": ["Java,"  " CSS," CPR certified"],
+  "Skills": ["Java,"  " CSS," " CPR certified"],
   "SkillsText": "Use this to add some narrative to your skills section",
   "Resume": "resume-Isaac-Fuchs.pdf"  
 },
