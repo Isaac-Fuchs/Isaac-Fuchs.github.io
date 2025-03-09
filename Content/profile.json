@@ -24,14 +24,14 @@ ng{
   "EmploymentText": "I have worked quite a few different jobs.",
   "Skills": ["Java,"  " CSS," CPR certified."],
   "SkillsText": "Use this to add some narrative to your skills section",
-  "Resume": "student-resume.pdf"  
+  "Resume": "resume-Isaac-Fuchs.pdf"  
 },
 "Project1": {
     "Title": "Sallen Key Frquency Filter",
     "Desc": "A sixth order bandpass Sallen Key circuit. Includes a peak detector and comparator to cause a LED to turn on when reciving a signal with a freqeuncy of 25kHz.<br><br>It has a GitHub repo and more details shown in screenshots.",
     "GitHubRepo": "https://github.com",
-    "MainImage": "P1Main.png",
-    "DetailImages": ["P1Detail1.png","P1Detail2.png","P1Detail3.png"]
+    "MainImage": "circuit diagram.jpg",
+    "DetailImages": ["FRA plot.jpg","oscilliscope responce.jpg"]
   },
   "Project2": {
     "Title": "",
