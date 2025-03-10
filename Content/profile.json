@@ -2,8 +2,8 @@
 "About": {
   "Name": "Isaac J. Fuchs",
   "Currently": "Computer Engineering Student",
-  "Headshot": "student-portrait.png",
-  "Thumbnail": "student-logo.webp",
+  "Headshot": "isaac-portrait.jpg",
+  "Thumbnail": "isaac-portrait.jpg",
   "AboutText": "Hi, I am Isaac Fuchs. I am a computer engineering student with an interest in software development and programming. Currently, I am pursuing my undergraduate degree at Seattle Pacific University. I am dedicated to expanding my knowledge and skills in various areas of computer engineering, with a particular focus on the designing of circuits.<br><br>I enjoy tackling challenging design projects and I work well with others."
 },
 "Contact": {
@@ -21,7 +21,7 @@
   "EducationText": "I found my passion for programing in my freshman year of high school when I took an AP computer science class. After an internship at an egineering firm in my senior year of high school I did some research and decided on my degree.",
   "Employment": "Sudexo",
   "Role": "Catering",
-  "EmploymentText": "I have worked quite a few different jobs.",
+  "EmploymentText": "I have worked quite a few different jobs. Though none of them directly relate to computer engineering, I belive that my previous work experience has trained me for the basic responcibilities of all jobs.",
   "Skills": ["Java,"  " MIPS," " Circuit Design" " CPR Certified"],
   "SkillsText": "I have coded in Java for 3 years and MIPS assembaly for 3 months. I have been working on cucuits since September 2024. I have been CPR certified for over six years.",
   "Resume": "resume-Isaac-Fuchs.pdf"  
